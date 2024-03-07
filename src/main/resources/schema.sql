@@ -1,0 +1,1 @@
+create table product(pid int, pname varchar(20), pcost double)
